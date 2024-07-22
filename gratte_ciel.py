@@ -1,6 +1,9 @@
 
 import random
 
+"""jeux plus genere 
+"""
+
 
 # Function to check visible buildings in a row or column
 def height_visibility(building_height):
